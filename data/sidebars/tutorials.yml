@@ -2,21 +2,23 @@
   items:
     - title: Introduction
       link: /tutorials/introduction/
+    - title: Wallets for Ocean Tokens
+      link: /tutorials/wallets/
     - title: Get Ether and Ocean Tokens for Testnets
       link: /tutorials/get-ether-and-ocean-tokens/
     - title: Set Up Azure Storage
       link: /tutorials/azure-for-brizo/
 
-- group: Publish
+- group: React App Tutorial (squid-js)
   items:
+    - title: Setup
+      link: /tutorials/react-setup/
     - title: Publish a Data Set
-      link: /tutorials/publish-data-set/
-    - title: Publish a Compute Service
-      link: /tutorials/publish-compute-service/
-
-- group: Consume
-  items:
+      link: /tutorials/react-publish-data-set/
     - title: Get & Use a Data Set
-      link: /tutorials/get-use-data-set/
-    - title: Get & Use a Compute Service
-      link: /tutorials/get-use-compute-service/
+      link: /tutorials/react-get-use-data-set/
+
+- group: squid-py Tutorials
+  items:
+    - title: Jupyter Notebooks
+      link: /tutorials/jupyter-notebooks/
