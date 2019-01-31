@@ -24,11 +24,12 @@ El Protocolo de Ocean tiene por objeto desbloquear los datos, a fin de lograr re
 ## Documentos
 
 Hay más detalles en la página de inicio del [Protocolo de Ocean](https://oceanprotocol.com/#papers) y en los documentos técnicos:
-· [Documento técnico](https://oceanprotocol.com/tech-whitepaper.pdf) - Este documento presenta el Protocolo de Ocean. Ocean es un protocolo descentralizado y una red de datos/servicios de inteligencia artificial (IA). Incentiva un vasto suministro de datos/servicios de IA relevantes.
 
-· [Documento de negocio](https://oceanprotocol.com/business-whitepaper.pdf) - Este documento presenta un resumen del modelo de negocio y ecosistema de Ocean Protocol. Además, describe la lógica detrás del token de utilidad de Ocean y los incentivos económicos que impulsan el Protocolo. Es complementario del documento técnico del Protocolo de Ocean.
+- [Documento técnico](https://oceanprotocol.com/tech-whitepaper.pdf) - Este documento presenta el Protocolo de Ocean. Ocean es un protocolo descentralizado y una red de datos/servicios de inteligencia artificial (IA). Incentiva un vasto suministro de datos/servicios de IA relevantes.
 
-· [Marketplace Framework](https://oceanprotocol.com/marketplace-framework.pdf) -  Este documento presenta un resumen de los atributos y componentes básicos del marketplace necesarios para facilitar el despliegue satisfactorio del protocolo y la red descentralizados de intercambio de datos denominados Protocolo Ocean.
+- [Documento de negocio](https://oceanprotocol.com/business-whitepaper.pdf) - Este documento presenta un resumen del modelo de negocio y ecosistema de Ocean Protocol. Además, describe la lógica detrás del token de utilidad de Ocean y los incentivos económicos que impulsan el Protocolo. Es complementario del documento técnico del Protocolo de Ocean.
+
+- [Marketplace Framework](https://oceanprotocol.com/marketplace-framework.pdf) -  Este documento presenta un resumen de los atributos y componentes básicos del marketplace necesarios para facilitar el despliegue satisfactorio del protocolo y la red descentralizados de intercambio de datos denominados Protocolo Ocean.
 
 ## Más información:
 
